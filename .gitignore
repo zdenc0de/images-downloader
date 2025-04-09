@@ -1,0 +1,8 @@
+# Ignora todo por defecto
+*
+
+# Pero no ignores estas rutas específicas:
+!magazines.py
+!.gitignore
+!README.md
+
